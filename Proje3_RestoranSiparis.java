@@ -1,7 +1,7 @@
 /**
  * Ad Soyad: Muhammet Yasir Çelik
  * Öğrenci No: 250542010
- * Proje: Not Sistemi
+ * Proje: Restoran Siparişi
  * Tarih: 19.11.2025
  */
 
@@ -203,3 +203,4 @@ public class RestoranSiparis{
         System.out.println("\nAfiyet olsun aga! 😎");
     }
 }
+
