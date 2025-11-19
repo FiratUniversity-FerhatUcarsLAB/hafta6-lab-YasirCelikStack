@@ -1,3 +1,9 @@
+/**
+ * Ad Soyad: Muhammet Yasir Çelik
+ * Öğrenci No: 250542010
+ * Proje: Not Sistemi
+ * Tarih: 19.11.2025
+ */
 
 
 
@@ -143,3 +149,4 @@ public class SinemaBileti {
         System.out.println(generateTicketInfo(gun, saat, yas, meslek, filmTuru));
     }
 }
+
