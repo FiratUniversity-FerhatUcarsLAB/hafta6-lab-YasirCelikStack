@@ -1,3 +1,11 @@
+/**
+ * Ad Soyad: Muhammet Yasir Çelik
+ * Öğrenci No: 250542010
+ * Proje: Not Sistemi
+ * Tarih: 19.11.2025
+ */
+
+
 import java.util.Scanner;
 
 public class ogr_Not{
@@ -105,3 +113,4 @@ public class ogr_Not{
 
 
 }
+
